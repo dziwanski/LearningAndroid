@@ -29,3 +29,6 @@ Możemy zdefiniować całkowicie osobny interfejs dla różnych wielkości ekran
 ![Rodzaje rozdzielczości](http://img.android.com.pl/images/user-images/2018/09/1-3-960x553.png)
 
 
+## Obrót ekranu
+Przy zmianie orientacji, zazwyczaj następuje przeladowanie aplikacji.
+Jest możliwość poinformowania systemu aby nie zatrzymywał naszej aplikacji przy obrocie telefonu lecz wtedy sami musimy zadbać o przeładowanie interfejsu.
